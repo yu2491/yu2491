@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**yu2491/yu2491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior full-stack software developer who has just graduated Makers Academy. 
+You can find my Github CV [here](https://github.com/yu2491/CV) and my LinkedIn [here](https://www.linkedin.com/in/yasmin-underdown-51a8095a)
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 Status: Job hunting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning: Python.
+
+- ♀️ Pronouns: She/Her.
+
+- 🏅 Fun fact: I volunteered at the London 2012 Olympics.
+
+
+### Technologies
+
+- Ruby, Rails
+- Javascript, Node.js, Phaser.js
+- HTML, CSS
+- Jasmine, RSpec, Capybara
+- Postgres, MongoDB
